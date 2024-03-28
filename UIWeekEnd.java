@@ -55,5 +55,4 @@ class AppWeekEnd {
 		System.out.println("│ Au Revoir! En semaine comme en week-end, les bons comptes font les bons amis.      │");
 		System.out.println("╰────────────────────────────────────────────────────────────────────────────────────╯");
     }
-
 }

@@ -119,4 +119,5 @@ class Executable {
 	System.out.println("avoir de paul "+we.avoirPersonne(paul));	
 	System.out.println("avoir de marie "+we.avoirPersonne(marie));
     }
+	
 }
